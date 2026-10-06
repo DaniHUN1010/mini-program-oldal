@@ -6,3 +6,30 @@ footer li a{
     text-decoration: none;
     color: #000;
 }
+.btn-success:hover{
+    background-color: aquamarine;
+    border: none;
+}
+.btn-danger:hover{
+    background-color: darkred;  border: none;
+
+}
+body{
+    background-color:cornsilk
+}
+
+ li{
+    list-style-type: none;
+
+}
+ li {
+    text-decoration: none;
+    color: #000;
+}
+ul{
+    text-align: center;
+}
+.kor{
+    border: #000 3px solid ;
+    border-radius: 10px;
+}
