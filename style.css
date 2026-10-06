@@ -17,3 +17,19 @@ footer li a{
 body{
     background-color:cornsilk
 }
+
+ li{
+    list-style-type: none;
+
+}
+ li {
+    text-decoration: none;
+    color: #000;
+}
+ul{
+    text-align: center;
+}
+.kor{
+    border: #000 3px solid ;
+    border-radius: 10px;
+}
